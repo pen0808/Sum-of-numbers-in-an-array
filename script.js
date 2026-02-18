@@ -26,3 +26,7 @@ console.log(`Your average score is ${result1}`);
 let student2 = [85, 45, 98, 83, 79];
 let result2 = averageScore(student2);
 console.log(`Your average score is ${result2}`);
+
+let student3 = [85, 100, 98, 83, 79];
+let result3 = averageScore(student3);
+console.log(`Your average score is ${result3}`);
