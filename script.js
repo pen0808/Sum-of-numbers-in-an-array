@@ -18,8 +18,7 @@ function averageScore(score){
   return average;
 }
 
-let student1 = [80, 40, 100, 98, 82];
-
+let student1 = [80, 40, 100, 98, 99];
 
 let result1 = averageScore(student1);
 console.log(`Your average score is ${result1}`);
